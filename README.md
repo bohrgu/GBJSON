@@ -6,7 +6,7 @@ This code provides a way to parse a deserialized JSON object and to match it wit
 Who Can Use It
 ----------
 
-OSX and iOS developpers who are using ARC (so over iOS 5.0).
+OSX and iOS developers who are using ARC (so over iOS 5.0).
 
 Description
 ----------
